@@ -3,7 +3,10 @@ It Fetch the text from an image file and saves it into a text file
 
 # Requriments:
 
-*Tesseract*
+*Install Tesseract for Windows*
+:https://github.com/UB-Mannheim/tesseract/wiki
+
+*Install Tesseract in Python*
 ```
 pip install tesseract
 
