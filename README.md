@@ -1,2 +1,10 @@
 # Image-to-Text
-It fetch the text from an image and saves it into a text file
+It Fetch the text from an image file and saves it into a text file
+
+# Requriments:
+
+*Tesseract*
+```
+pip install tesseract
+
+```
