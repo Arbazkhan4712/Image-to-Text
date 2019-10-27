@@ -13,3 +13,9 @@ pip install tesseract
 Run the following:
 
     python Image-to-Text.py
+
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
